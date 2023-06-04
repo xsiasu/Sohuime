@@ -91,6 +91,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/a31e5306-48d1-4278-9e0e-12bb558c063b.jpg",
+        "image_2": "shopify:\/\/shop_images\/0b93307c-387e-4631-936a-85ef1b4c9d7d.jpg",
         "image_overlay_opacity": 40,
         "image_height": "adapt",
         "desktop_content_position": "top-center",
