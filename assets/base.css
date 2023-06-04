@@ -1,3 +1,7 @@
+body {
+  font-family: NotoSansJP, Roboto, Microsoft Yahei, \5b8b\9ad4, simsun, Arial, sans-serif;
+}
+
 :root {
   --alpha-button-background: 1;
   --alpha-button-border: 1;
@@ -2683,6 +2687,7 @@ details[open]>.header__submenu {
   padding: 1.2rem;
   text-decoration: none;
   color: rgba(var(--color-foreground), 0.75);
+  font-weight: bold;
 }
 
 .header__menu-item:hover {
