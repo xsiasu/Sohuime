@@ -2768,10 +2768,10 @@ details[open]>.header__menu-item .icon-caret {
   position: static;
 }
 
-/* header-menu > details,
-details-disclosure > details {
+header-menu>details,
+details-disclosure>details {
   position: relative;
-} */
+}
 
 @keyframes animateMenuOpen {
   0% {
