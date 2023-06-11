@@ -45,7 +45,7 @@
         "template--19293272998205__55169ceb-c634-4b0c-88e7-858d9edd3b71-1685878934cb72db3b-1"
       ],
       "settings": {
-        "layout": "grid",
+        "layout": "full_bleed",
         "slide_height": "adapt_image",
         "slider_visual": "dots",
         "auto_rotate": false,
